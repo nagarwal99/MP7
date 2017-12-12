@@ -87,6 +87,7 @@ public class Portal {
             System.out.println("Exiting...");
             System.out.println("Done");
         }
+        
         sc.close();
     }
 
